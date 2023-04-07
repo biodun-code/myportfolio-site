@@ -1,0 +1,66 @@
+.SkillCard{
+background-color: var(--color-tiles-bg);
+}
+.SkillCard:hover{
+  background-image: linear-gradient(var(--color-bright-green),var(--color-dark-green));
+  box-shadow: 6px 9px 35px 2px #64f4ac70 !important;
+  transform: scale(1.01) !important;
+  transition: all .3s ease-in !important;
+}
+.SkillCard:hover .skillIcon{
+background-image: linear-gradient(var(--color-bright-green),var(--color-dark-green));
+}
+.skillIcon{
+border: 1px solid var(--color-bright-green);
+background-color: var(--color-icons-bg);
+}
+.skillTitle{
+  font-size: 1.6rem;
+  font-weight: 600;
+  letter-spacing: 1px;
+  margin-top: 10px;
+}
+.skillDesc{
+letter-spacing: 1.5px;
+color: var(--color-text-secondary);
+text-align: center;
+}
+@media only screen and (max-width: 970px) and (min-width: 820.5px)  {
+  .SkillCard{
+    width: 180px !important;
+    height: 180px !important;
+  }
+  .skillIcon{
+  width: 45px !important;
+  height: 45px !important;
+    }
+    .skillTitle{
+      font-size: 0.7rem !important;
+      font-weight: 500;
+    }
+    .skillDesc{
+    letter-spacing: 1.4px;
+    font-size: 0.5rem !important;
+    text-align: center;
+    }
+}
+@media only screen and (max-width: 1150px) and (min-width: 600.5px)  {
+  .SkillCard{
+    width: 210px;
+    height: 210px;
+  }
+  .skillIcon{
+    width: 60px;
+    height: 60px;
+    }
+    .skillTitle{
+      font-size: 1.1rem;
+      font-weight: 500;
+    }
+    .skillDesc{
+    letter-spacing: 1.4px;
+    font-size: 0.7rem;
+    text-align: center;
+    }
+
+}

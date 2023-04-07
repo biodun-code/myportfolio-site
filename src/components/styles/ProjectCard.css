@@ -1,0 +1,133 @@
+.ProjectCard{
+width: 550px;
+height: 450px;
+background-color: var(--transpernt-primary);
+transform: rotate(-10deg);
+transition: .25s all;
+}
+.ProjectCardInner{
+width: 550px;
+height: 450px;
+transform: rotate(-10deg);
+transition: .8s all ease;
+box-shadow: 1px 1px 10px 1px rgba(0,0,0,0.50);
+
+}
+#p1{
+  background-image: url('../../assets/devmeet.webp');
+}
+#p2{
+  background-image: url('../../assets/petme.webp');
+}
+#p3{
+  background-image: url('../../assets/bizup.webp');
+}
+#p4{
+  background-image: url('../../assets/crm.webp');
+}
+#p5{
+  background-image: url('../../assets/portfolio.webp');
+}
+#p6{
+  background-image: url('../../assets/mardi.webp');
+}
+#p7{
+  background-image: url('../../assets/smartechs.webp');
+}
+#p8{
+  background-image: url('../../assets/qnwmedia.webp');
+}
+#p9{
+  background-image: url('../../assets/patron.webp');
+}
+#p10{
+  background-image: url('../../assets/dina.webp');
+}
+#p11{
+  background-image: url('../../assets/aragil.webp');
+}
+#p12{
+  background-image: url('../../assets/fiad.webp');
+}
+#p13{
+  background-image: url('../../assets/donepro.webp');
+}
+#p14{
+  background-image: url('../../assets/ssc.webp');
+}
+#p15{
+  background-image: url('../../assets/kfar.webp');
+}
+#p16{
+  background-image: url('../../assets/qusetna.webp');
+}
+#p17{
+  background-image: url('../../assets/shortly.webp');
+  background-position: 20%;
+}
+#p18{
+  background-image: url('../../assets/qbmedia.webp');
+}
+#p19, #p20, #p21{
+  background-image: url('https://imageio.forbes.com/specials-images/imageserve/60f1e792c7e89f933811814c/DevOps-concept/960x0.jpg?format=jpg&width=960');
+}
+#p22{
+  background-image: url('../../assets/qrmenu.webp');
+}
+#bernard{
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/a/a6/George_Bernard_Shaw.jpg');
+}
+.ProjectCardInner:hover{
+cursor: pointer;
+animation: alternate infinite .8s float;
+}
+@keyframes float{
+  100%{transform: scale(1.03);}
+}
+.onReach {
+  transition: 1s all;
+  transform: rotate(0deg);
+}
+
+@media only screen and (max-width: 1200px) and (min-width: 800px)  {
+  .ProjectCard{
+    width: 380px;
+    height: 330px;
+    }
+    .ProjectCardInner{
+    width: 380px;
+    height: 330px;
+    }
+}
+@media only screen and (max-width: 800px) and (min-width: 600.5px)  {
+  .ProjectCard{
+    width: 400px;
+    height: 340px;
+    }
+    
+    .ProjectCardInner{
+    width: 400px;
+    height: 340px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+  .ProjectCard{
+    width: 300px;
+    height: 250px;
+    border-radius: 25px;
+    }
+    
+    .ProjectCardInner{
+    width: 300px;
+    height: 250px;
+    border-radius: 25px;
+    }
+    .Projects .para{
+      width: 75vw;
+      font-size: 3vw;
+    }
+    .Projects .right-col{
+      padding: 0px 50px
+    }
+}
