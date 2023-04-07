@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
-import { NavLink, useHistory } from 'react-router-dom';
-import { AiFillHome, AiOutlineMenu, AiFillPhone, AiFillLayout,AiOutlineArrowUp } from 'react-icons/ai';
+import { NavLink, useHistory } from 'react-router-dom'; // eslint-disable-next-line 
+import { AiFillHome, AiOutlineMenu, AiFillPhone, AiFillLayout,AiOutlineArrowUp } from 'react-icons/ai'; // eslint-disable-next-line 
 import { FaWhatsapp,FaMoon,FaSun } from 'react-icons/fa';
 import themeSwitcher from '../../utils/themeSwitcher';
 

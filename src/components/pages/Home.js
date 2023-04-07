@@ -1,15 +1,15 @@
 import React from 'react';
 import Skills from '../sections/Skills'
-import Projects from '../sections/Projects'
-import Testimonials from '../sections/Testimonials'
+// import Projects from '../sections/Projects'
+// import Testimonials from '../sections/Testimonials'
 import Hero from '../sections/Hero'
 
 const Home = () => (
 <div className=''>
 <Hero />
 <Skills />
-<Projects />
-<Testimonials />
+{/* <Projects /> */}
+{/* <Testimonials /> */}
 </div>
 
 )

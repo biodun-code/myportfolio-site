@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9673824f.chunk.css",
+    "main.js": "/static/js/main.8a4e2b59.chunk.js",
+    "main.js.map": "/static/js/main.8a4e2b59.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7c41977c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7c41977c.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.b1875ec9.chunk.js": "/static/js/2.b1875ec9.chunk.js",
+    "static/js/2.b1875ec9.chunk.js.map": "/static/js/2.b1875ec9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.9673824f.chunk.css.map": "/static/css/main.9673824f.chunk.css.map",
+    "static/js/2.b1875ec9.chunk.js.LICENSE.txt": "/static/js/2.b1875ec9.chunk.js.LICENSE.txt",
+    "static/media/Copy of myresume.60b24fcb.pdf": "/static/media/Copy of myresume.60b24fcb.pdf",
+    "static/media/App.css": "/static/media/ring_dark.499f15a7.svg",
+    "static/media/Hero.css": "/static/media/personme1.5c5f3080.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c41977c.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.b1875ec9.chunk.js",
+    "static/css/main.9673824f.chunk.css",
+    "static/js/main.8a4e2b59.chunk.js"
+  ]
+}

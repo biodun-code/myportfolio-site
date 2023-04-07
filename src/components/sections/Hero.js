@@ -1,5 +1,5 @@
-import React, { useEffect } from 'react';
-import { SiReact, SiCss3,SiHtml5 } from 'react-icons/si';
+import React, { useEffect } from 'react'; // eslint-disable-next-line 
+import { SiReact, SiCss3,SiHtml5 } from 'react-icons/si'; // eslint-disable-next-line 
 import {IoLogoJavascript } from 'react-icons/io';
 import { customAos } from '../../utils/customAos';
 

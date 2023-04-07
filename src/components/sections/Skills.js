@@ -17,7 +17,7 @@ const Skills = () => {
       <div className="right-col">
         <Para
           intro={'My Skills'}
-          title={'Why Hire Me For Next Project?'}
+          title={'Why Hire Me For Your Next Project?'}
           para={"Lots of motivation, Consistency, Positive energy and responsibility. Able to efficiently self-manage during independent projects, as well as collaborate,  Experience in building basic infra and CI/CD processes from scratch, Building Full stack web applications with branching strategies ."}
           btn={'Download CV'}
           more={cv} />

@@ -12,14 +12,14 @@ return(
 
 <div className="Footer" style={footer}>
 <div className="logo">
- <img alt="Logo" />
+ {/* <img alt="Logo" /> */}
 </div>
-<p style={footer.paraFooter}>Please feel free to reach me out on my other social media platforms for any question or request needed.</p>
+<p style={footer.paraFooter}>Please feel free to reach me on my other social media platforms for any question or request needed.</p>
 <div style={footer.socialFooter}>
- <Link to={{ pathname: `https://instagram.com/moodyomarz` }} target="_blank" className="socialIcon"><AiFillInstagram size={25} /></Link>
- <Link to={{ pathname: `https://facebook.com/moodyomarz` }} target="_blank" className="socialIcon"><AiFillFacebook size={25}/></Link>
- <Link to={{ pathname: `https://linkedin.com/in/moodyomar` }} target="_blank" className="socialIcon"><AiFillLinkedin size={25} /></Link>
- <Link to={{ pathname: `https://github.com/moodyomar` }} target="_blank" className="socialIcon"><AiFillGithub size={25}/></Link>
+ <Link to={{ pathname: `https://instagram.com/biodun_1404?igshid=ZWIzMWE5ZmU3Zg==` }} target="_blank" className="socialIcon"><AiFillInstagram size={25} /></Link>
+ <Link to={{ pathname: `https://www.facebook.com/abiodun.toheeb.982?mibextid=LQQJ4d` }} target="_blank" className="socialIcon"><AiFillFacebook size={25}/></Link>
+ <Link to={{ pathname: `https://www.linkedin.com/in/toheeb-abdullahi-85283916a` }} target="_blank" className="socialIcon"><AiFillLinkedin size={25} /></Link>
+ <Link to={{ pathname: `https://github.com/majorshuga` }} target="_blank" className="socialIcon"><AiFillGithub size={25}/></Link>
 </div>
 
 </div>
