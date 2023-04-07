@@ -5,7 +5,7 @@ import SkillCard from '../common/SkillCard';
 import skills from '../../data/skills.json';
 import Para from '../common/Para';
 
-import cv from '/home/biodun/myportfolio-site/src/assets/Copy of myresume.pdf'
+import cv from '../../assets/Copy of myresume.pdf'
 import '../styles/Skills.css';
 
 
