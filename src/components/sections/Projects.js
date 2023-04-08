@@ -25,7 +25,7 @@ const Projects = () => {
 
 
       <div className="viewall" style={{ display: 'flex', justifyContent: 'center', marginTop: '50px' }}>
-       <Link to="/portfolio"><button id="vAll" style={vAllBtn}>View All</button></Link>
+       <Link to="/portfolio"><button id="vAll" style={vAllBtn}>View portfolio</button></Link>
       </div>
 
     </div>
