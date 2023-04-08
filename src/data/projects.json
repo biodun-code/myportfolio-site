@@ -12,5 +12,18 @@
     "link":"https://biodun-food-ordering.netlify.app",
     "more":"https://github.com/majorshuga/foodordering_landing_page",
     "cat":"FrontEnd"
+  },
+  {
+    "intro":"Project 2",
+    "title":"Kudi Crypto",
+    "tools":["Html","js","react","api","docker","Node"],
+    "content":"Your one stop crypto exchange for all your P2P conversion.",
+    "btnclass":"readMore",
+    "btn":"Read More",
+    "icon":true,
+    "pId":"p2",
+    "link":"https://kudicrypto1.web.app/",
+    "more":"",
+    "cat":"FrontEnd"
   }
 ]
