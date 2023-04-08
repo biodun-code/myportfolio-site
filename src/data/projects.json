@@ -25,5 +25,18 @@
     "link":"https://kudicrypto1.web.app/",
     "more":"",
     "cat":"FrontEnd"
+  },
+  {
+    "intro":"Project 3",
+    "title":"Piza Hut",
+    "tools":["Html","js","react"],
+    "content":"A pizza ordering application i used to practice framer motion",
+    "btnclass":"readMore",
+    "btn":"Read More",
+    "icon":true,
+    "pId":"p3",
+    "link":"https://pizzahuttt.netlify.app/",
+    "more":"https://github.com/majorshuga/Framer-motion",
+    "cat":"FrontEnd"
   }
 ]
