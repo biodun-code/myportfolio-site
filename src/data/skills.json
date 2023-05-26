@@ -1,26 +1,26 @@
 [
   {
-    "icon":"FaCode",
-    "title":"Main Languages",
-    "desc":"HTML, CSS and Javascript Front to back including ES6 syntax & REST api,  and the fundamentals in C + Python.",
-    "animation":"left"
+    "icon": "FaCode",
+    "title": "Main Languages",
+    "desc": "I am skilled in various programming languages, including HTML, CSS, JS, Python, Node.js, and SQL. I possess expertise in both front-end and back-end, enabling me to deliver great solutions for your project.",
+    "animation": "left"
   },
   {
-    "icon":"FaReact",
-    "title":"Frameworks",
-    "desc":"Hands on libraries and frameworks like React.js, Redux, Angular, Bootstrap, and Node.js the JS Runtime Environment for the backend.",
-    "animation":"right"
+    "icon": "FaReact",
+    "title": "Frameworks",
+    "desc": "Hands on libraries and frameworks like React.js, Redux, Angular, Bootstrap, and Node.js the JS Runtime Environment for the backend.",
+    "animation": "right"
   },
   {
-    "icon":"MdDevicesOther",
-    "title":"Responsive Design",
-    "desc":"For me website !responisve is !professional, Therefor I use native CSS or bootstrap to make my websites fully responsive for all devices.",
-    "animation":"left"
+    "icon": "MdDevicesOther",
+    "title": "Responsive Design",
+    "desc": "For me website responsiveness defines professionalsm, Therefor I use native CSS or bootstrap to make my websites fully responsive for all devices.",
+    "animation": "left"
   },
   {
-    "icon":"FaTools",
-    "title":"Tools & Apps",
-    "desc":"Git & Github, Bash, Linux, Docker, MongoDB, Kubernetes, Ansible, Terraform, Wordpress, Photoshop, Figma and more.",
-    "animation":"right"
+    "icon": "FaTools",
+    "title": "Tools & Apps",
+    "desc": "Git & Github, Bash, Linux, Docker, MongoDB, Kubernetes, Ansible, Terraform, Wordpress, Photoshop, Figma and more.",
+    "animation": "right"
   }
 ]

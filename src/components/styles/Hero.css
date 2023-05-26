@@ -11,6 +11,7 @@ position: relative;
 bottom: 0px;
 top: 10px;
 }
+
 .left-col{
   display: flex;
   flex-direction: column;
@@ -25,16 +26,16 @@ margin-bottom: 15px;
 }
 .para {
 font-size: 20px;
-letter-spacing: 1px;
+letter-spacing: 0px;
 width: 35vw;
-margin: 10px 0px 30px;
+margin: 0px 0px 30px;
 color:var(--color-text-secondary);
 }
 
 h1{
   font-size: 5.5vw;
 line-height: 1;
-margin-bottom: 20px;
+margin-bottom: 5px;
 }
 h1 span {
   font-size: 6.5vw;
@@ -52,6 +53,21 @@ h1 span {
   z-index: 5;
   
 }
+@media only screen and (min-device-width: 330px) and (max-device-width: 768px){
+    .person {
+      background-image: url('../../assets/personme1.webp');
+      background-size: 340px 340px;
+      background-repeat: no-repeat;
+      position: absolute;
+      bottom: auto;
+      top: auto;
+      left:auto;
+      right: auto;
+      z-index: 5;
+    }
+  
+}
+
 
 .ring{
   background-image: var(--ring);
@@ -222,7 +238,7 @@ place-items: center;
 .person{
   width: 300px;
   height:  400px;
-  margin-right: 10%;
+  margin-right:10px;
 }
 .para {
 font-size: 0.8rem;
