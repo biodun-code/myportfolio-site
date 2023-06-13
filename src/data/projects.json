@@ -51,5 +51,18 @@
     "link":"https://master--mynft-market-place.netlify.app/",
     "more":"https://github.com/majorshuga/nft_market_place",
     "cat":"Full Stack"
+  },
+  {
+    "intro":"Project 5",
+    "title":"Hotel Booking",
+    "tools":["Reactjs","Expressjs"],
+    "content":"A hotel Booking application",
+    "btnclass":"readMore",
+    "btn":"Read More",
+    "icon":true,
+    "pId":"p4",
+    "link":"",
+    "more":"https://github.com/majorshuga/hotel-booking",
+    "cat":"Full Stack"
   }
 ]
