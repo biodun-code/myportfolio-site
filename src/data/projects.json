@@ -1,7 +1,7 @@
 [
 {
     "intro":"Project 1",
-    "title":"Food ordering site",
+    "title":"Food ordering Landing Page",
     "tools":["html","css","js","mui","react"],
     "content":"A simulation of an Application where you can order and pay for Nigerian Local Dishes.",
     "btnclass":"readMore",
@@ -38,5 +38,18 @@
     "link":"https://pizzahuttt.netlify.app/",
     "more":"https://github.com/majorshuga/Framer-motion",
     "cat":"FrontEnd"
+  },
+  {
+    "intro":"Project 4",
+    "title":"NFT Market place",
+    "tools":["Solidity","Nextjs"],
+    "content":"A Nft market Place",
+    "btnclass":"readMore",
+    "btn":"Read More",
+    "icon":true,
+    "pId":"p1",
+    "link":"https://master--mynft-market-place.netlify.app/",
+    "more":"https://github.com/majorshuga/nft_market_place",
+    "cat":"Full Stack"
   }
 ]
